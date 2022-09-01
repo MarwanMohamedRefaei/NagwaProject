@@ -1,7 +1,7 @@
 # NagwaProject
-# Author : Marwan Mohamed Refaei 
+## Author : Marwan Mohamed Refaei 
 
-## About
+### About
 Creating an english language test app in (Part of Speech).
 
 ### Description
